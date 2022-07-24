@@ -13,6 +13,11 @@
 >#### 🚧Open to:
 - right opportunities on WebApp/website development.
 
+>#### ✨Projects built
+- My [Portfolio](https://ayimnelson-portfolio.netlify.app)
+- [TodoAssit](https://todoassist.herokuapp.com), A simple but functional todolist app built with django
+- [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of blackmagic.so
+
 >#### ⚡ Fun fact:
 - What do we call intelligence having fun!? [Creativity]
 
