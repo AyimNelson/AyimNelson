@@ -6,12 +6,12 @@
 - You can contact me on [Twitter](https://twitter.com/ayim_nelson/).
 
 >#### 👨🏽‍💻Tech Stack
-- Python/Django developer.
-- HTML/CSS
+- Python/Django
+- HTML/CSS/Bootstrap
 - Little JavaSacript
 
 >#### 🚧Open to:
-- right opportunities on WebApp/website development.
+- Right opportunities on WebApp/website development.
 
 >#### ✨Projects built
 - My [Portfolio](https://ayimnelson-portfolio.netlify.app)
