@@ -6,14 +6,14 @@
 - You can contact me on [Twitter](https://twitter.com/ayim_nelson/).
 
 >#### 👨🏽‍💻Tech Stack
-- Python/Django
+- Python/Django/Django-Rest-framework
 - HTML/CSS/Bootstrap
-- JavaSacript
-- SqLite3
+- JavaScript
+- SqL
 
 >#### Backend
 <p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python-logo.png" alt="Python" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python-logo.png" alt="Python" width="30" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django-logo.png" alt="Django" width="40" height="40"/></a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="images/drf.png" alt="Django-Rest-Framework" width="100" height="40"/></a>
 </p>
