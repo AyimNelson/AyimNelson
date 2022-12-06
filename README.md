@@ -10,6 +10,10 @@
 - HTML/CSS/Bootstrap
 - JavaScript
 - SqL
+- Postgresql
+- Heroku
+- Railway
+- AWS
 
 >#### Backend
 <p>
@@ -28,9 +32,14 @@
 
 >#### Cloud
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="images/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+<a href="https://railway.app" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://railway.app&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" alt="railway" width="40" height="40"/></a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="heroku" width="60" height="40"/></a>
+
+
 
 >#### Database
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png" alt="mysql" width="80" height="40"/> </a> 
 
 >#### 🚧Open to:
 - Right opportunities on WebApp/website development.
