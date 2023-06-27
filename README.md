@@ -48,8 +48,7 @@
 - My [Portfolio](https://ayimnelson-portfolio.netlify.app)
 - [TodoAssit](https://todoassist.herokuapp.com), A simple but functional todolist app built with django
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of blackmagic.so -->
-
-[![Nelson's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AyimNelson&show_icons=true&theme=#gh-light-mode-only)](https://github.com/AyimNelson/github-readme-stats#gh-light-mode-only)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
 
