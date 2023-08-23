@@ -48,6 +48,8 @@
 - My [Portfolio](https://ayimnelson-portfolio.netlify.app)
 - [TodoAssit](https://todoassist.herokuapp.com), A simple but functional to-do list app built with Django
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of blackmagic.so
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
