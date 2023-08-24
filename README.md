@@ -45,9 +45,11 @@
 - Right opportunities on WebApp/website development.
 
 >#### ✨Projects built
-- My [Portfolio](https://ayimnelson-portfolio.netlify.app)
+- My [Portfolio](https://algorithmicyear.up.railway.app/user/jarvis)
+- [Algorithmic Year](https://algorithmicyear.up.railway.app), A free Computer Programming Learning Platform
+- [FastFix](https://fastfix.netlify.app), A simple application template for an Electronic Shop
 - [TodoAssit](https://todoassist.herokuapp.com), A simple but functional to-do list app built with Django
-- [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of blackmagic.so
+- [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of Blackmagic.so
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
@@ -56,7 +58,7 @@
 
 
 
->#### 🔭 I’m currently working on Edith Assist [ A django webapp focused on blogging ]
+>#### 🔭 I’m currently working on Edith Assist [ A Django web application focused on blogging ]
 
 >#### ⚡ Fun fact:
 - What do we call intelligence having fun!? [Creativity]
