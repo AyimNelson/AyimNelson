@@ -55,6 +55,8 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64deb86eced78d293522eb06?variant=dark" alt="roadmap.sh"/></a>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
