@@ -52,10 +52,8 @@
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of Blackmagic.so
 
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark&roadmaps=python%2Cdevops)](https://roadmap.sh)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
-
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64deb86eced78d293522eb06?variant=dark" alt="roadmap.sh"/></a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
 
