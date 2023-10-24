@@ -48,7 +48,7 @@
 - My [Portfolio](https://algorithmicyear.up.railway.app/user/jarvis)
 - [Algorithmic Year](https://algorithmicyear.up.railway.app), A free Computer Programming Learning Platform
 - [FastFix](https://fastfix.netlify.app), A simple application template for an Electronic Shop
-- [TodoAssit](https://todoassist.herokuapp.com), A simple but functional to-do list app built with Django
+- [TodoAssist](https://todoassist.herokuapp.com), A simple but functional to-do list app built with Django
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of Blackmagic.so
 
 
