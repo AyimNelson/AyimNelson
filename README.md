@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
-- Student and self-taught developer with 3years experience of web development.
+- Student and self-taught developer with 4years experience of software development.
 - Exploring ML and Ai while focusing at school.
 - You can contact me on [Twitter](https://twitter.com/ayim_nelson/).
 
