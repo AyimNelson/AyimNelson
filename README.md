@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
-- Student and self-taught developer with 5years experience of software development.
-- Exploring ML and Ai while focusing at school.
-- You can contact me on [Twitter](https://twitter.com/ayim_nelson/).
+- Software developer | 5years experience.
+- Exploring ML and Ai.
+- You can contact me on [LinkedIn](https://www.linkedin.com/in/ayimnelson/).
 
 >#### 👨🏽‍💻Tech Stack
 - Python/Django/Django-Rest-framework
