@@ -3,7 +3,7 @@
 >#### 🙋🏽‍♂️About Me
 - Software developer | 5years experience.
 - Exploring ML and Ai.
-- You can contact me on [LinkedIn](https://www.linkedin.com/in/ayimnelson/).
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/ayimnelson/).
 
 >#### 👨🏽‍💻Tech Stack
 - Python/Django/Django-Rest-framework
@@ -45,12 +45,13 @@
 - Right opportunities on WebApp/website development.
 
 >#### ✨Projects built
-- My [Portfolio](https://algorithmicyear.up.railway.app/user/jarvis)
 - [Algorithmic Year](https://algorithmicyear.up.railway.app), A free Computer Programming Learning Platform
 - [FastFix](https://fastfix.netlify.app), A simple application template for an Electronic Shop
-- [TodoAssist](https://todoassist.herokuapp.com), A simple but functional to-do list app built with Django
+- [TodoAssist](https://todoassist.up.railway.app), A simple but functional to-do list app built with Django
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of Blackmagic.so
 
+>### Note
+- Most developed applications are adminitrative projects that I cannot showcase here.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
 
