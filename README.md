@@ -6,15 +6,14 @@
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/ayimnelson/).
 
 >#### 👨🏽‍💻Tech Stack
-- ![PythonPoweredGIF](https://github.com/AyimNelson/AyimNelson/assets/60468690/3b5aee8d-5c52-4ac2-a0ab-9ca5708b61ff) Python/Django/Django-Rest-framework
-- ![FullStackDeveloperGIF](https://github.com/AyimNelson/AyimNelson/assets/60468690/82440ebe-19e4-4905-a8c9-3ae572c61449) HTML/CSS/Bootstrap
-- ![ElianJavascriptGIF](https://github.com/AyimNelson/AyimNelson/assets/60468690/013cd79f-2075-4fc8-af57-045d01fb567e) JavaScript
+- Python/Django/Django-Rest-framework
+- HTML/CSS/Bootstrap
+- JavaScript
 - SqL
 - Postgresql
 - Heroku
 - Railway
 - AWS
-- <img src="https://github.com/AyimNelson/AyimNelson/assets/60468690/3b5aee8d-5c52-4ac2-a0ab-9ca5708b61ff" alt="Python" width="30" height="40"/>
 
 >#### Backend
 <p>
