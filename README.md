@@ -1,14 +1,14 @@
 ### Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
-- Software developer | 5years experience.
-- Exploring ML and Ai.
+- 🧑‍💻 Software developer | 5years experience.
+- 🚀 Exploring ML and Ai.
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/ayimnelson/).
 
 >#### 👨🏽‍💻Tech Stack
-- Python/Django/Django-Rest-framework
-- HTML/CSS/Bootstrap
-- JavaScript
+- ![PythonPoweredGIF](https://github.com/AyimNelson/AyimNelson/assets/60468690/3b5aee8d-5c52-4ac2-a0ab-9ca5708b61ff) Python/Django/Django-Rest-framework
+- ![FullStackDeveloperGIF](https://github.com/AyimNelson/AyimNelson/assets/60468690/82440ebe-19e4-4905-a8c9-3ae572c61449) HTML/CSS/Bootstrap
+- ![ElianJavascriptGIF](https://github.com/AyimNelson/AyimNelson/assets/60468690/013cd79f-2075-4fc8-af57-045d01fb567e) JavaScript
 - SqL
 - Postgresql
 - Heroku
@@ -42,7 +42,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="images/postgres-logo.png" alt="mysql" width="80" height="40"/> </a> 
 
 >#### 🚧Open to:
-- Right opportunities on WebApp/website development.
+- Right opportunities on Web Application and website development.
 
 >#### ✨Projects built
 - [Algorithmic Year](https://algorithmicyear.up.railway.app), A free Computer Programming Learning Platform
@@ -51,8 +51,9 @@
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of Blackmagic.so
 
 >### Note
-- Most developed applications are adminitrative projects that I cannot showcase here.
+- Most developed applications are administrative projects that I cannot showcased here.
 
+  
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
 
 
