@@ -14,6 +14,7 @@
 - Heroku
 - Railway
 - AWS
+- <img src="https://github.com/AyimNelson/AyimNelson/assets/60468690/3b5aee8d-5c52-4ac2-a0ab-9ca5708b61ff" alt="Python" width="30" height="40"/>
 
 >#### Backend
 <p>
