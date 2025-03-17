@@ -45,7 +45,7 @@
 - Right opportunities on Web Application and website development.
 
 >#### ✨Projects built
-- [Algorithmic Year](https://algorithmicyear.up.railway.app), A free Computer Programming Learning Platform
+- [JeliScript](https://jeliscript.com), A free Computer Programming Learning Platform
 - [FastFix](https://fastfix.netlify.app), A simple application template for an Electronic Shop
 - [TodoAssist](https://todoassist.up.railway.app), A simple but functional to-do list app built with Django
 - [BlackMagic Clone](https://blackmagicclone.netlify.app), A cloned version of Blackmagic.so
@@ -59,7 +59,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=html,jupiter,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=jupyter%20notebook,html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
 
 
 
