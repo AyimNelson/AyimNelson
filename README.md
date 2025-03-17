@@ -59,7 +59,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=html,jupiternotebook,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
 
 
 
