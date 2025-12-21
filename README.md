@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
-- 🧑‍💻 Software developer | 5years experience.
+- 🧑‍💻 Software Engineer | 6years experience.
 - 🚀 Exploring ML and Ai.
-- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/ayimnelson/).
+- 📫 You can contact me on [Portfolio](https://ayimnelson.up.railway.app/).
 
 >#### 👨🏽‍💻Tech Stack
 - Python/Django/Django-Rest-framework
