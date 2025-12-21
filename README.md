@@ -28,6 +28,7 @@
 <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"> <img src="images/css3.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="images/flutter.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
 >#### Cloud
