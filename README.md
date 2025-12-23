@@ -15,8 +15,7 @@
 - Railway
 - AWS
 
->#### Backend
-<p>
+>#### Backendtpspsss
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python-logo.png" alt="Python" width="30" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django-logo.png" alt="Django" width="40" height="40"/></a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="images/drf.png" alt="Django-Rest-Framework" width="100" height="40"/></a>
@@ -55,7 +54,7 @@
 >### Note
 - Most developed applications are administrative projects that I cannot showcase here.
 
-- 👉 Readmore [Website](tpsps://ayimnelson.up.railway.app/).
+- 👉 Readmore [Websitte](https://ayimnelson.up.railway.app/).
 
   
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
