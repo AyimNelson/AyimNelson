@@ -1,4 +1,4 @@
-### Hi there 👋 
+Websitteebsitte## Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
 - 🧑‍💻 Software Engineer | 6years experience.
@@ -54,7 +54,7 @@
 >### Note
 - Most developed applications are administrative projects that I cannot showcase here.
 
-- 👉 Readmore [Websitte](https://ayimnelson.up.railway.app/).
+- 👉 Readmore [Website](https://ayimnelson.up.railway.app/).
 
   
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
