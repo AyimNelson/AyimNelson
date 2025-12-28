@@ -1,4 +1,4 @@
-Websitteebsitte## Hi there 👋 
+## Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
 - 🧑‍💻 Software Engineer | 6years experience.
