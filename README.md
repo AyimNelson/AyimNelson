@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ### I'm Ayim
 >#### 🙋🏽‍♂️About Me
-- 🧑‍💻 Software Engineer | 6years experience.
+- 🧑‍💻 Software Engineer | 7years experience.
 - 🚀 Exploring ML and Ai.
 - 📫 You can contact me on [Portfolio](https://ayimnelson.up.railway.app/).
 
