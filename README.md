@@ -45,6 +45,7 @@
 - Right opportunities on Web Application and website development.
 
 >#### ✨Projects built
+- [Portfolio](https://ayimnelson.up.railway.app)
 - [JeliScript](https://jeliscript.com), A free Computer Programming Learning Platform
 - [PesewaPay](https://pesewapay.com), A mobile-first fintech platform that enables people, businesses & organisations to connect, pay, save, invest and run commerce seamlessly; all from a single wallet
 - [FastFix](https://fastfix.netlify.app), A simple application template for an Electronic Shop
