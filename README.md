@@ -41,8 +41,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="images/postgres-logo.png" alt="mysql" width="80" height="40"/> </a> 
 
->#### 🚧Open to:
-- Right opportunities on Web Application and website development.
+>#### 🚧Open to Right opportunities on:
+- Web Application and website development.
+- Api Development
+- System Analysis and Design
+- Mobile Application Development
+- Ai model Development and Training
+- Custom Software Development; Administrative, Management and Commerse
 
 >#### ✨Projects built
 - [Portfolio](https://ayimnelson.up.railway.app)
