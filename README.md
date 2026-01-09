@@ -61,12 +61,6 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=jupyter%20notebook,javascript,html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
-
-
-
 >#### 🔭 I’m currently working on Edith Assist [ A Django web application focused on blogging ]
 
 >#### ⚡ Fun fact:
@@ -74,6 +68,11 @@
 
 
 <!--
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AyimNelson&count_private=true&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyimNelson&hide=jupyter%20notebook,javascript,html,css&layout=compact)](https://github.com/AyimNelson/github-readme-stats)
+
 **AyimNelson/AyimNelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
