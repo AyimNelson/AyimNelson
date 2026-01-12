@@ -65,9 +65,11 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64deb86eced78d293522eb06?variant=dark)](https://roadmap.sh)
 
 
->#### 🔭 I’m currently working on Edith Assist [ A Django web application focused on blogging ]
+>#### 🔭 I’m currently building;
+>Edithdith Assist [ A Django web application focused on blogging ]
+>PesewaPay [ A mobile-first fintech application]
 
->#### ⚡ Fun fact:
+>## ⚡ Fun fact:
 - What do we call intelligence having fun!? [Creativity]
 
 
