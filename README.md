@@ -38,7 +38,6 @@
 
 
 >#### Database
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="images/postgres-logo.png" alt="mysql" width="80" height="40"/> </a> 
 
 >#### 🚧Open to Right opportunities on:
