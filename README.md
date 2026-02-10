@@ -71,7 +71,7 @@
 >PesewaPay [ A mobile-first fintech application]
 
 >## ⚡ Fun fact:
-- What do we call intelligence having fun!? [Edithdith]
+- What do we call intelligence having fun!? [Creativity]
 
 
 <!--
